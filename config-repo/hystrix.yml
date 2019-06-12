@@ -6,3 +6,5 @@ server:
 management:
   security:
     enabled: false
+turbine:
+  app-config-list: admin,eureka-server,turbine,user-service,zuul,config-service
