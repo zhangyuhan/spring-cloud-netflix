@@ -4,7 +4,7 @@ spring:
   application:
     name: user-service
   datasource:
-    url: jdbc:mysql://127.0.0.1:3306/springcloud?useUnicode=true&characterEncoding=UTF-8
+    url: jdbc:mysql://192.168.254.218:3306/springcloud?useUnicode=true&characterEncoding=UTF-8
     username: dxzhan
     password: Admin@123
     dbcp2:
