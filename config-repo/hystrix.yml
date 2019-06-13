@@ -7,4 +7,4 @@ management:
   security:
     enabled: false
 turbine:
-  appConfig: admin,eureka-server,turbine,user-service,zuul,config-service
+  appConfig: ADMIN,EUREKA-SERVER,TURBINE,USER-SERVICE,ZUUL,CONFIG-SERVICE
